@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Ticket</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Tickets</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- Tickets --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Activity --></label>
+        <name>Activity__c</name>
+        <relationshipLabel><!-- Tickets --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- Tickets --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Date/Time --></label>
+        <name>Date_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- External_TicketID --></label>
+        <name>External_TicketID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fees --></label>
+        <name>Fees__c</name>
+    </fields>
+    <fields>
+        <label><!-- Guide --></label>
+        <name>Guide__c</name>
+        <relationshipLabel><!-- Tickets --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Last Transaction No --></label>
+        <name>Last_Transaction_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- Location --></label>
+        <name>Location__c</name>
+    </fields>
+    <fields>
+        <label><!-- Payment --></label>
+        <name>Payment__c</name>
+        <relationshipLabel><!-- Tickets --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- PriceType --></label>
+        <name>PriceType__c</name>
+        <relationshipLabel><!-- Tickets --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Price --></label>
+        <name>Price__c</name>
+    </fields>
+    <fields>
+        <label><!-- Quantity --></label>
+        <name>Quantity__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sale Date --></label>
+        <name>Sale_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Price --></label>
+        <name>Total_Price__c</name>
+    </fields>
+    <fields>
+        <label><!-- User --></label>
+        <name>User__c</name>
+        <relationshipLabel><!-- Tickets (User) --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
